@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:10/5/24
+## Date:12.05.2024
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -33,6 +33,10 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
+```
+DEVELOPED BY:VESLIN ANISH A
+REGISTER NO:212223240175
+```
 ## Home page:
 ```
 <div style="width: 360px; height: 640px; position: relative; background: #C709CB">
@@ -94,7 +98,8 @@ Figma
 ```
 
 ## OUTPUT:
-![image](https://github.com/23007232/Figma/assets/139115574/26418a25-7efb-479a-bac7-f41dd599aa09)
+![Screenshot 2024-05-12 070427](https://github.com/veslin23000303/Figma/assets/151148539/1e6dd720-fcc2-42e2-9774-6a5b309430bc)
+
 
 
 ## RESULT:
